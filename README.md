@@ -19,8 +19,7 @@ This project focuses on driving data-driven growth and maximizing customer loyal
 6. **Strategic Action Plan:** Translated analytical outputs into automated, business-ready marketing recommendations targeted at each specific segment.
 
 ## Dashboard Preview
-![SNB Customer Intelligence Dashboard]([
-])
+![SNB Customer Intelligence Dashboard]([/Users/sara_1/Documents/SNB project/output.png])
 
 ##  Key Business Insights & Action Plan
 Based on the dashboard analytics, the following strategic steps were established:
