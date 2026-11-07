@@ -2,7 +2,7 @@
 An end-to-end Data Science pipeline for  bank customer segmentation using RFM analysis and K-Means clustering, featuring an interactive cohort retention Power BI dashboard.
 
 ## Project Overview
-This project focuses on driving data-driven growth and maximizing customer loyalty at the Saudi National Bank (SNB). By implementing advanced data analytics and machine learning, the project aims to minimize customer churn, optimize marketing spend, and increase overall banking revenue through personalized customer retention strategies.
+This project focuses on driving data-driven growth and maximizing customer loyalty at the Bank . By implementing advanced data analytics and machine learning, the project aims to minimize customer churn, optimize marketing spend, and increase overall banking revenue through personalized customer retention strategies.
 
 ## Dataset Description
 * **Data Type:** Synthetic / Simulated Banking Data.
