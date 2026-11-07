@@ -31,6 +31,5 @@ Based on the dashboard analytics, the following strategic steps were established
 *  Technology Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
-* **BI Tool:** Power BI
 
   
